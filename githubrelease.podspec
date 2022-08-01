@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "githubrelease"
-  s.version          = "1.0.0"
+  s.version          = "v1.0.0"
   s.summary          = "The open source fonts for githubrelease"
   s.homepage         = "https://github.com/"
   s.license          = 'Code is MIT, then custom font licenses.'
