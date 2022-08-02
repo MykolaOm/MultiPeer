@@ -1,0 +1,11 @@
+framework module githubrelease {
+  umbrella header "githubrelease.h"
+
+  export *
+  module * { export * }
+}
+
+module githubrelease.Swift {
+    header "githubrelease-Swift.h"
+    requires objc
+}
